@@ -1,5 +1,15 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
+backup/
+
+lib/
+
+
+Trayicon Test/
+
+*.exe
+
+proj_trayicon_test
+
+*.res
+
+*.dbg
