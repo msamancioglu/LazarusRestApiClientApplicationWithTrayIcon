@@ -9,4 +9,9 @@ Displays weather data to main window as well as System Tray
 You need Lazarus IDE for compiling project
 
 Lazarus IDE 2.0.10
-Free Pascal Compiler 3.2.0
+Free Pascal Compiler 3.2.0 
+
+Please use 32 bit compiler/ide to run this app.
+
+Enjoy!
+
